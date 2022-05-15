@@ -1,4 +1,4 @@
-module git.khuedoan.com/khuedoan/homelab/gitea/config
+module git.kientran.site/khuedoan/homelab/gitea/config
 
 go 1.18
 
